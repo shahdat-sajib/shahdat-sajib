@@ -5,6 +5,10 @@
 
 - 🔭 I’m currently working in [BJIT LIMITED as an automation engineer](https://bjitgroup.com/)
 
+- 🏆 **9+ International & National Hackathon Winner** organized by **NASA, IBIC, MIST, BUET, RU, DIU, ICT Division)** [(All achievement photo)](https://drive.google.com/drive/folders/1622mF7ij-K5-cBOX2Enjp-EGUlN3o_SA?usp=sharing)
+
+- 🎓 Graduated from Daffodil International University in **Software Engineering**
+
 - 🌱 I’m currently learning **varies automation tools architecture and development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shahdat-sajib?tab=repositories](https://github.com/shahdat-sajib?tab=repositories)
