@@ -35,3 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahdat-sajib&show_icons=true&theme=dracula&locale=en" alt="shahdat-sajib" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahdat-sajib&theme=dark" alt="shahdat-sajib" /></p>
+
+<p><img align="center" src="https://github.com/shahdat-sajib/shahdat-sajib/assets/59218362/2fd91c30-ce25-4323-8096-0fa41aeb52b8" alt="git snake" /></p>
+
